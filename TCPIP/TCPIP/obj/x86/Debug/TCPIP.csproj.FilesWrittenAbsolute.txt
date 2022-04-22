@@ -1,0 +1,5 @@
+/home/jeff/Documents/CSharp/TCPIP/TCPIP/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documents/CSharp/TCPIP/TCPIP/bin/Debug/TCPIP.exe.mdb
+/home/jeff/Documents/CSharp/TCPIP/TCPIP/bin/Debug/TCPIP.exe
+/home/jeff/Documents/CSharp/TCPIP/TCPIP/obj/x86/Debug/TCPIP.exe
+/home/jeff/Documents/CSharp/TCPIP/TCPIP/obj/x86/Debug/TCPIP.exe.mdb

@@ -1,0 +1,5 @@
+/home/jeff/Documents/CSharp/Cliente/Cliente/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documents/CSharp/Cliente/Cliente/bin/Debug/Cliente.exe.mdb
+/home/jeff/Documents/CSharp/Cliente/Cliente/bin/Debug/Cliente.exe
+/home/jeff/Documents/CSharp/Cliente/Cliente/obj/x86/Debug/Cliente.exe
+/home/jeff/Documents/CSharp/Cliente/Cliente/obj/x86/Debug/Cliente.exe.mdb
